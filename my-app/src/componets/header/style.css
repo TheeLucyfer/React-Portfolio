@@ -1,0 +1,8 @@
+.header {
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+    transition: background-color 0.2s;
+    color: black;
+    background-color: black;
+  }

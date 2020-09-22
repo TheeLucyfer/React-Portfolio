@@ -1,0 +1,23 @@
+.subText {
+    font-size: 2.5vw;
+  }
+  .textShadow {
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5), -1px -1px 1px rgba(0, 0, 0, 0.5),
+      1px -1px 1px rgba(0, 0, 0, 0.5), -1px 1px 1px rgba(0, 0, 0, 0.5);
+  }
+  .textCenter {
+    text-align: center;
+  }
+
+  .reSize {
+    height: 50px;
+    width: auto;
+    padding: 0, 0, 0, 10px;
+  }
+  .hero{
+    padding: 18vh;
+    background: radial-gradient(rgb(0 0 0 / 72%), rgb(0 0 0 / 72%), transparent, transparent);
+    background-image: url(/static/media/background.fcf5ad3f.jpg);
+    height: 100vh;
+
+}
